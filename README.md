@@ -5,6 +5,12 @@ resizes square images to common texture and app icon formats
 there are apps around which aren't modifiyable, therefore I created this setup.
 it's easy to extend but requires manual modification and running of _main.py_
 
+requirements:
+**pillow**
+```
+sudo pip install pillow
+```
+
 ## how to use
 **1. manual_set_path**
 manual set a path to a directory containing squared images or to a square image file
